@@ -1,6 +1,8 @@
 # ToDoListApplication
 Simple React Application for Manage ToDo List.
 
+This Application is using Node v16.14.0 and NPM v8.3.1
+
 How to run :
 - Clone repository using https ```git clone https://github.com/rifkatr/ToDoListApplication.git```
 - Go to directory ```cd ToDoListApplicataion```
