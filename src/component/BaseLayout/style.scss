@@ -1,0 +1,8 @@
+@import "./../../styles/colors.scss";
+
+.base-layout {
+  .content {
+    background-color: $page-bg;
+    padding: 24px;
+  }
+}

@@ -1,3 +1,13 @@
+# ToDoListApplication
+Simple React Application for Manage ToDo List.
+
+How to run :
+- Clone repository using https ```git clone https://github.com/rifkatr/ToDoListApplication.git```
+- Go to directory ```cd ToDoListApplicataion```
+- Install node_modules ```npm install```
+- Copy env ```cp .env.development .env```
+- Run app using ```npm start```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

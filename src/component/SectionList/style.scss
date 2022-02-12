@@ -1,0 +1,11 @@
+@import "../../styles/colors.scss";
+
+.section-list{
+  padding: 24px;
+  
+  .wrap-list {
+    padding: 24px;
+    background: $section-bg;
+    border-radius: 12px;
+  }
+}
